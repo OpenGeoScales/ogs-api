@@ -3,7 +3,8 @@ const mongoose = require('mongoose');
 
 const countryEmissionsRoutes = require('./routes/country-emmissions');
 
-mongoose.connect('mongodb+srv://verre:L3h9QLFvvUtMgrs@cluster0.nx0pq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://OpenGeoScaleApi:5PQ8qB3Tx4BqBZV@cluster0.pbpit.mongodb.net/ogs-emissions?retryWrites=true&w=majority',
+//mongoose.connect('mongodb+srv://verre:L3h9QLFvvUtMgrs@cluster0.nx0pq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
     { useNewUrlParser: true,
         useUnifiedTopology: true })
     .then(() => console.log('Connexion à MongoDB réussie !'))
