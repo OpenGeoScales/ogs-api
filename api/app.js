@@ -23,6 +23,6 @@ app.use((req, res, next) => {
 app.use(bodyParser.json());
 
 app.use('/api/country', countryEmissionsRoutes);
-app.use('/api/emissions', countryEmissionsRoutesapi);
+app.use('/api/country-emissions', countryEmissionsRoutesapi);
 
 module.exports = app;

@@ -4,7 +4,7 @@ const router = express.Router();
 
 const countryEmissionsControllerApi = require('../controllers/country-emissions-api-controller')
 
-router.get('/country/', countryEmissionsControllerApi.getCountryEmissionByCountry);
+router.get('/', countryEmissionsControllerApi.getCountryEmissionByCountry);
 router.get('/', countryEmissionsControllerApi.getAllCountryEmission);
 router.post('/',countryEmissionsControllerApi.createCountryEmissions);
 

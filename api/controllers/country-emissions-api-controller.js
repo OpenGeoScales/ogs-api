@@ -2,7 +2,8 @@ const CountryEmissionsApi = require('../models/country-emission-api');
 
 exports.getCountryEmissionByCountry = (req, res, next) => {
     let condition = [];
-
+    //TODO check params send and extract method (refactor filtering with next line)
+    //const { country, date, gas_name } = req.query;
     for(let param in req.query){
         if(param == 'country') continue;
         if(param == 'date')
@@ -50,28 +51,6 @@ exports.getCountryEmissionByCountry = (req, res, next) => {
     );
 };
 
-// exports.getCountryEmissionByCountry = (req, res, next) => {
-//     CountryEmissionsApi.find({
-//         'geoComponent.geoComponent_name': req.query.country//},
-//         //{'emissions' : { $elemMatch : { date : "1903" } }
-//         //'emissions.date': 1903//req.query.date
-//     }).then(
-//         (country_emissions_api) => {
-//             console.log(country_emissions_api.length + " CountryEmissions for country " + req.query.country + " api found");
-//             let emissions = country_emissions_api.emissions;
-//             let ret = country_emissions_api.emissions.filter(emission=>emission.date = 1903);
-//             res.status(200).json(ret);
-//             //res.status(200).json(country_emissions_api);
-//         }
-//     ).catch(
-//         (error) => {
-//             res.status(400).json({
-//                 error: error
-//             });
-//         }
-//     );
-// };
-
 exports.getAllCountryEmission = (req, res, next) => {
     CountryEmissionsApi.find().then(
         (country_emissions_api) => {
@@ -105,6 +84,4 @@ exports.createCountryEmissions = (req,res,next)=>{
         console.log("une erreur : " + e.message)
         res.status(400).json({error : e.message});
     }
-
-
 };
