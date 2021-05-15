@@ -1,0 +1,3210 @@
+{
+	"geoComponent": {
+		"scale_name": "country",
+		"geoComponent_name": "Afghanistan",
+		"iso_code": {
+			"alpha2": null,
+			"alpha3": "AFG"
+		},
+		"properties": {
+			"area": null
+		}
+	},
+	"emissions": [
+		{
+			"date": 1949,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.004,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1949,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1949,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1949,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1949,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1950,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.005749999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1950,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.017249999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1950,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1950,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1950,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1951,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.006999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1951,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.018,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1951,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1951,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1951,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1952,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.008653930131004366,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1952,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.01634606986899563,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1952,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1952,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1952,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1953,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.010357259825327509,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1953,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.01864274017467249,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1953,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1953,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1953,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1954,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.011599890829694322,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1954,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.017400109170305677,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1954,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1954,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1954,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1955,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.016999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1955,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.024999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1955,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1955,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1955,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1956,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.016999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1956,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.032999999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1956,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1956,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1956,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1957,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.020999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1957,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.059,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1957,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1957,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1957,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1958,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.024999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1958,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.065,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1958,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1958,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1958,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1959,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.03,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1959,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.06999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1959,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1959,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.00495933406113537,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1959,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1960,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.03469295851528384,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1960,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.07335098253275109,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1960,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1960,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.004915938864628821,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1960,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1961,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.047999999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1961,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.07999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1961,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1961,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.005951419213973798,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1961,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1962,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.08099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1962,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.09899999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1962,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1962,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.00793504366812227,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1962,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1963,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.072,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1963,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.10699999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1963,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1963,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.013886462882096069,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1963,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1964,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.08199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1964,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.13,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1964,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1964,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.016862172489082968,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1964,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1965,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.104,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1965,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.14799999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1965,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1965,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.022813591703056768,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1965,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1966,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.11699999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1966,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.15699999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1966,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1966,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.023805403930131,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1966,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1967,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.10899999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1967,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.15199999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1967,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.071,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1967,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.017853984716157204,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1967,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1968,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09072843886462881,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1968,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.13559415938864628,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1968,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.09471643013100435,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1968,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012856168122270742,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1968,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1969,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09899999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1969,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.144,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1969,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1969,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.013886462882096069,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1969,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1970,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.11926146288209605,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1970,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.18340229257641919,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1970,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.05912963973799126,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1970,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012923034934497816,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1970,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.08117794759825327,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1971,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09799999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1971,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.204,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1971,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.12,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1971,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.011807041484716157,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1971,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.08299999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1972,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.052,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1972,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.17099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1972,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1972,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012687772925764191,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1972,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.09999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1973,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.08481031659388645,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1973,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.19157150655021833,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1973,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.09079694323144104,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1973,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.01835125545851528,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1973,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.060863810043668118,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1974,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.08315911572052401,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1974,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.21040229257641919,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1974,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.10920878820960699,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1974,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.019237991266375544,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1974,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.10019159388646287,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1975,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.10881249999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1975,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.23858870087336243,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1975,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.12977620087336243,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1975,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.01900927947598253,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1975,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0828572598253275,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1976,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.11599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1976,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.241,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1976,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1976,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0217150655021834,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1976,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.07999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1977,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.12299999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1977,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.26599999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1977,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.13999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1977,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.01778739082969432,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1977,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.104,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1978,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.1572669213973799,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1978,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.25543367903930128,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1978,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08213946506550217,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1978,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.01580649563318777,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1978,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.07713100436681222,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1979,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1979,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.31799999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1979,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.105,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1979,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.01748498908296943,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1979,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.073,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1980,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.08617958515283841,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1980,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.2525262008733624,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1980,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.05110644104803493,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1980,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0063995633187772919,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1980,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.083173307860262,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1981,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1981,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.27699999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1981,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08299999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1981,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.009043395196506548,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1981,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.07999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1982,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.105,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1982,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.27099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1982,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.10799999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1982,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.010756550218340612,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1982,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.07699999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1983,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.105,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1983,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.33299999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1983,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.16799999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1983,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0017767467248908295,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1983,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.07999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1984,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.1071386462882096,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1984,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.30940065502183408,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1984,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.2543294213973799,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1984,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.013224072052401746,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1984,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.08611162663755458,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1985,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.1091140829694323,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1985,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.42244132096069866,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1985,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.32534006550218338,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1985,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.008734170305676857,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1985,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.09009415938864628,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1986,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.11599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1986,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.311,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1986,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.32799999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1986,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.010374727074235807,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1986,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.08999999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1987,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.12085807860262007,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1987,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.5493553493449781,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1987,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.1068744541484716,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1987,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.011978165938864629,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1987,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.06092849344978165,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1988,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1988,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.49699999999999996,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1988,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.12,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1988,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.011880731441048034,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1988,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.051,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1989,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.09199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1989,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.5089999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1989,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.131,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1989,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.011769377729257642,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1989,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.011,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1990,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.07599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1990,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.5049999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1990,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.10999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1990,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012490720524017467,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1990,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.006999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1991,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.06799999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1991,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.4689999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1991,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.106,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1991,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012490720524017467,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1991,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.006999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1992,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1992,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.253,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1992,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.09899999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1992,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012490720524017467,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1992,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1993,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.004999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1993,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.244,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1993,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.09599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1993,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012825054585152837,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1993,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1994,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.004011462882096069,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1994,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.23466675764192139,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1994,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.09226200873362445,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1994,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012825054585152837,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1994,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.006017194323144104,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1995,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.004,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1995,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.22499999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1995,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.088,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1995,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012825054585152837,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1995,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1996,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.002,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1996,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.21299999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1996,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08399999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1996,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012936681222707423,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1996,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1997,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.0010032751091703055,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1997,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.19866675764192139,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1997,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07725927947598252,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1997,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012936681222707423,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1997,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.006020196506550218,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1998,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.0010035480349344978,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1998,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.18866675764192138,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1998,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07225518558951964,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1998,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012936681222707423,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1998,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.006021288209606986,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1999,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.001,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1999,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.13499999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1999,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.06599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1999,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012936681222707423,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 1999,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2000,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.001,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2000,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.13599999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2000,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.061,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2000,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.002788209606986899,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2000,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2001,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.018999999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2001,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.13399999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2001,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.056999999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2001,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0017843886462882097,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2001,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.005999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2002,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.015,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2002,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.12,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2002,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.14899999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2002,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.003011189956331877,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2002,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2003,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.024999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2003,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.16899999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2003,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.127,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2003,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.002676582969432314,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2003,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2004,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.024999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2004,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.15299999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2004,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.06199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2004,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.002676582969432314,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2004,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2005,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.028999999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2005,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.235,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2005,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08999999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2005,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0016951419213973799,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2005,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2006,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.043902292576419209,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2006,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.309311135371179,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2006,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08979994541484715,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2006,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0033234170305676857,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2006,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2007,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.20432969432314408,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2007,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.32752838427947597,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2007,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.0841356441048035,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2007,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0031673034934497819,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2007,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2008,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.29399999999999995,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2008,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.7669999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2008,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2008,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.004159934497816593,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2008,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2009,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.4129999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2009,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.3489999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2009,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07399999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2009,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.0035131004366812225,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2009,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2010,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.613,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2010,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.6009999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2010,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07399999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2010,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.003970251091703056,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2010,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2011,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 1.1409999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2011,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 2.0749999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2011,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08399999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2011,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.003981441048034934,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2011,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2012,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.853,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2012,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.8439999999999997,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2012,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08399999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2012,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.007895742358078603,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2012,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2013,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.9079999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2013,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.305,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2013,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08099999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2013,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.009702510917030566,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2013,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2014,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 1.011,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2014,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.029,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2014,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07399999999999998,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2014,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.00781768558951965,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2014,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2015,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.7759999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2015,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 1.293,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2015,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07699999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2015,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.011241539301310043,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2015,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2016,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.7855709606986898,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2016,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.9474825327510916,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2016,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08695251091703056,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2016,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.020776746724890828,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2016,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2017,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 0.941,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2017,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.837,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2017,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08199999999999999,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2017,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012222980349344977,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2017,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2018,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 1.8853556222707422,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2018,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.8741512008733624,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2018,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.08107232532751091,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2018,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012222980349344977,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2018,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2019,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Coal",
+			"gas_name": "CO2",
+			"value": 1.9085008187772923,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2019,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Oil",
+			"gas_name": "CO2",
+			"value": 0.9313103165938863,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2019,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Gas",
+			"gas_name": "CO2",
+			"value": 0.07382068777292576,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2019,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Cement",
+			"gas_name": "CO2",
+			"value": 0.012222980349344977,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		},
+		{
+			"date": 2019,
+			"sector_name": "Territorial Emissions",
+			"subsector_name": "Flaring",
+			"gas_name": "CO2",
+			"value": 0.0,
+			"unit": "MtC",
+			"data_source_name": "GCP"
+		}
+	]
+}
