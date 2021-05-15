@@ -1,22 +1,10 @@
 const CountryEmissionsApi = require('../models/country-emission-api');
+const helper = require('../businesslogic/emissions-helper')
 
 exports.getCountryEmissionByCountry = (req, res, next) => {
     let condition = [];
-    //TODO check params send and extract method (refactor filtering with next line)
-    //const { country, date, gas_name } = req.query;
-    for(let param in req.query){
-        if(param == 'country') continue;
-        if(param == 'date')
-        {
-            condition.push({ "$eq" : [ "$$emissions.date", parseInt(req.query.date) ] });
-        }
-        else
-        {
-            condition.push({ "$eq" : [ "$$emissions."+param, req.query[param] ] });
-        }
-    };
-    console.log(condition);
-
+    condition = helper(req.query);
+    
     CountryEmissionsApi.aggregate([
         {
             "$match" : {
