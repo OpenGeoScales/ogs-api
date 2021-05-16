@@ -12,6 +12,12 @@ Open endpoints require no Authentication.
 
 To fetch result, you need to specified at least the country params
 * http://localhost:3000/api/country-emissions?country=Zimbabwe
+If country parameters is not provided, an error is return :
+  ```json
+  {
+  "error": "country filter is required"
+  }
+  ```
 
 ### Optional filters 
 

@@ -1,9 +1,10 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
+const swaggerUi = require("swagger-ui-express");
 
 const countryEmissionsRoutes = require('./routes/country-emmissions');
-const countryEmissionsRoutesapi = require('./routes/country-emissions-api-route');
+const countryEmissionsRoutesAPÏ = require('./routes/country-emissions-api-route');
 
 //mongoose.connect('mongodb://localhost:27017/',
 mongoose.connect('mongodb+srv://OpenGeoScaleApi:5PQ8qB3Tx4BqBZV@cluster0.pbpit.mongodb.net/ogs-emissions?retryWrites=true&w=majority',
@@ -23,6 +24,8 @@ app.use((req, res, next) => {
 app.use(bodyParser.json());
 
 app.use('/api/country', countryEmissionsRoutes);
-app.use('/api/country-emissions', countryEmissionsRoutesapi);
+app.use('/api/country-emissions', countryEmissionsRoutesAPÏ);
+
+//app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 module.exports = app;
