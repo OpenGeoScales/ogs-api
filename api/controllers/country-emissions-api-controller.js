@@ -15,12 +15,12 @@ exports.getCountryEmissionByCountry = (req, res, next) => {
         CountryEmissionsApi.aggregate([
             {
                 "$match" : {
-                    'geoComponent.geoComponent_name': req.query.country
+                    'geo_component.name': req.query.country
                 }
             },
             {
                 "$project" : {
-                    "geoComponent" : 1,
+                    "geo_component" : 1,
                     "emissions" : {
                         "$filter" : {
                             "input" : "$emissions",
@@ -45,22 +45,6 @@ exports.getCountryEmissionByCountry = (req, res, next) => {
             }
         );
     }
-
-};
-
-exports.getAllCountryEmission = (req, res, next) => {
-    CountryEmissionsApi.find().then(
-        (country_emissions_api) => {
-            console.log("CountryEmissions api found")
-            res.status(200).json(country_emissions_api);
-        }
-    ).catch(
-        (error) => {
-            res.status(400).json({
-                error: error
-            });
-        }
-    );
 };
 
 exports.createCountryEmissions = (req,res,next)=>{

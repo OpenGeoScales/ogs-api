@@ -1,5 +1,5 @@
 //Arrays of allowed filters
-const filters = ['gas_name','date','data_source_name','sector_name']
+const filters = ['gas','date','data_source','sector']
 
 module.exports = function (params)
 {
@@ -7,8 +7,9 @@ module.exports = function (params)
     for(let param in params){
         //check if filter is allowed
         if(!filters.includes(param)) continue;
+        //TODO : refactor this part
         //Date is in format YYYY. To query by date, date must be an int.
-        if(param == 'date')
+        if(param == 'date1')
         {
             condition.push({ "$eq" : [ "$$emissions.date", parseInt(params[param]) ] });
         }

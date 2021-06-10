@@ -12,28 +12,27 @@ const properties_schema = new mongoose.Schema({
 )
 
 const geo_component_schema = new mongoose.Schema({
-        scale_name: {type: String, required: true},
-        geoComponent_name: {type: String, required: true},
-        iso_code: iso_code_schema,
-        properties: {properties_schema, required: false}
+        scale : {type: String, required: true},
+        name: {type: String, required: true},
+        properties: {properties_schema, required: false},
+        identifiers: {iso_code_schema, required: false}
     }
 )
 
 const emissions_schema = new mongoose.Schema({
-        date: {type: Number, required: true},
-        sector_name: {type: String, required: true},
-        subsector_name: {type: String, required: true},
-        gas_name: {type: String, required: true},
+        date: {type: String, required: true},
+        sector: {type: String, required: true},
+        gas: {type: String, required: true},
         value: {type: Number, required: true},
         unit: {type: String, required: true},
-        data_source_name: {type: String, required: true},
+        data_source: {type: String, required: true},
     }
 )
 
 const country_emissions_api_schema = new mongoose.Schema({
-        geoComponent: geo_component_schema,
+        geo_component: geo_component_schema,
         emissions: [emissions_schema]
     },
     {versionKey: false});
 
-module.exports = mongoose.model('test', country_emissions_api_schema);
+module.exports = mongoose.model('country_emissions', country_emissions_api_schema);
