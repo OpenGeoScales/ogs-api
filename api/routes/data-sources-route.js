@@ -2,7 +2,7 @@ const express = require('express');
 
 const router = express.Router();
 
-const DataSourceController = require('../controllers/datasource-controller')
+const DataSourceController = require('../controllers/data-sources-controller')
 
 router.get('/', DataSourceController.getAllDataSource);
 

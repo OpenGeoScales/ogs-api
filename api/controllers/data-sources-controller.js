@@ -1,9 +1,9 @@
-const Datasource = require('../models/datasource');
+const Datasource = require('../models/data-sources-model');
 
 exports.getAllDataSource = (req, res, next) => {
     Datasource.find().then(
         (datasource) => {
-            console.log("CountryEmissions V2 found")
+            console.log(datasource.length + " Data sources ");
             res.status(200).json(datasource);
         }
     ).catch(
